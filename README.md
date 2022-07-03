@@ -4,8 +4,11 @@ The purpose of this analysis is to use different Machine Learning techniques to 
 ## Results
   - The image below shows results for Random Oversampling. It shows that our balance accuracy was 66%, and the precision for high risk was a low positivity at 1%.
   ![image](https://user-images.githubusercontent.com/100812515/177025743-8b1a9f6b-95b3-4f21-a37a-4ed08b0392d8.png)
+  
   - The image below shows results for SMOTE oversampling. It shows that our balance accuracy was 66%, and precision for high risk a low positivity at 1%.
+  
   ![image](https://user-images.githubusercontent.com/100812515/177025902-d80a0e2a-6252-426b-a7de-9d7ce45188ed.png)
+  
   - Results for Undersampling include a balanced accuracy score of 66%, and the precision is 99%.
   ![image](https://user-images.githubusercontent.com/100812515/177026022-5d045dde-96e6-4706-8cc5-a5ef2f532c19.png)
   - Results for combination includes balanced accuracy score of 54% and precision of 99%.
